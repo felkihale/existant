@@ -8,5 +8,6 @@
 
 echo " Welcome to the home page for the Test :) <br/>";
 echo " 1- First change <br/>";
+echo " 2- For testing the fetch fonctionality <br/>";
 
 ?>
