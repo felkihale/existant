@@ -8,5 +8,6 @@
 
 echo " Show page :) <br/>";
 echo " La page de show.php  <br/>";
+echo " this is the first edit ;)  ";
 
 ?>
